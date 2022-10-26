@@ -3,7 +3,7 @@ import BookStore
 import DLList
 
 def menu_calculator() :
-    calculator =  Calculator.Calculator()
+    calculator = Calculator.Calculator()
     option=""
     while option != '0':
         print ("""
